@@ -5,10 +5,22 @@ Java Employee leave management system developed using Jakarta EE (Java) and MYSQ
 </div>
 
 
+
 ## Test Project
 
 1. Clone this repository or download as zip.
 
+```sh
+https://github.com/shahidafridi-m/employee-leave-management.git
+```
+
+## Project architecture
+
+![Architecture](/screenshots/project_architecture.jpeg)
+
+## Database diagram
+
+![DB Design](/screenshots/database_design.jpeg)
 
 ## Screenshots
 
