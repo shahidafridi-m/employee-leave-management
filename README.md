@@ -24,7 +24,6 @@ https://github.com/shahidafridi-m/employee-leave-management.git
 
 ## Screenshots
 
-![Login UI](/screenshots/login_ui.png)
 ![Login UI](/screenshots/add_emp_ui.png)
 ![Login UI](/screenshots/all_emp_screen.png)
 ![Login UI](/screenshots/user_pro_ui.png)
