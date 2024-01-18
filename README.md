@@ -11,8 +11,13 @@ Java Employee leave management system developed using Jakarta EE (Java) and MYSQ
 
 
 ## Screenshots
+
 ![Login UI](/screenshots/login_ui.png)
-<p align="center">
-  <img width=49%; src="https://github.com/shahidafridi-m/employee-leave-management/tree/main/screenshots/login_ui.png">
-    <img width=49%; src="https://github.com/shahidafridi-m/employee-leave-management/blob/master/screenshots/add_emp_ui.png">
-</p>
+![Login UI](/screenshots/add_emp_ui.png)
+![Login UI](/screenshots/all_emp_screen.png)
+![Login UI](/screenshots/user_pro_ui.png)
+![Login UI](/screenshots/make_req_ui.png)
+![Login UI](/screenshots/pen_req_ui.png)
+![Login UI](/screenshots/app_req_ui.png)
+![Login UI](/screenshots/req_details_ui.png)
+
